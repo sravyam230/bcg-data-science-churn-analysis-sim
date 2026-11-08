@@ -4,7 +4,7 @@ Work completed for the [BCG X Data Science Job Simulation](https://www.theforage
 
 PowerCo, a gas and electricity supplier to small and medium-sized businesses, was losing customers and believed price sensitivity was the cause. The task was to test that hypothesis, build a model that predicts which customers will churn, and recommend what to do about it. The datasets provided by Forage are for simulation use only and are not included here.
 
-**Notebook:** [`churn_analysis.ipynb`](churn_analysis.ipynb)
+**Notebook:** [`bcg_data_science_churn_analysis_sim.ipynb`](https://github.com/sravyam230/bcg-data-science-churn-analysis-sim/blob/main/bcg_data_science_churn_analysis_sim.ipynb)
 
 ## Data
 
